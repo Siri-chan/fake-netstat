@@ -5,7 +5,7 @@ namespace netstat
     class netstat
     {
         //this only works with no arg right now (and it's not finished)
-        //TODO netstat | netstat -a | netstat -b | netstat -e | netstat -f | netstat -n | netstat -o | netstat -p <proto> | netstat -q 
+        //TODO netstat -a | netstat -b | netstat -e | netstat -f | netstat -n | netstat -o | netstat -p <proto> | netstat -q 
         ////// netstat -r | netstat -s | netstat -t | netstat -x | netstat -y | netstat <interval>
         static void Main(string[] args)
         {
